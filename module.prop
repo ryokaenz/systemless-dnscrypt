@@ -1,0 +1,7 @@
+id=dnscrypt
+name=Dnscrypt Proxy
+version=v1.9.4
+versionCode=194
+author=RyokaEnzodai
+description=Systemless Dnscrypt ( Official Dnscrypt https://dnscrypt.org )
+template=3

@@ -1,0 +1,11 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+ro.ril.hsxpa=3
+ro.ril.gprsclass=12
+ro.ril.hep=1
+ro.ril.enable.dtm=1
+ro.ril.hsdpa.category=20
+ro.ril.hsupa.category=7
+ro.ril.enable.a53=1
+ro.ril.enable.3g.prefix=1
